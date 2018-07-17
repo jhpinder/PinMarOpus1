@@ -1,11 +1,11 @@
 # PinMarOpus1
-### Mary Our Queen Catholic Church
+### Customer: Mary Our Queen Catholic Church
 
 Arduino Code for PinMar Opus I Hauptwerk Organ
 
 Project start date: 4/20/18
 
-## MIDI Port Assignments:
+## MIDIPLUS USB 8x8 Port Assignments:
 ### In:
 1: hwce2x - keyboard, pedalboard, and unlighted piston encoder
 
