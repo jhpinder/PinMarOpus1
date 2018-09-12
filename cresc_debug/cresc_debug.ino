@@ -81,7 +81,7 @@ void loop() {
   MIDI.sendNoteOn(42, 127, 1);
   MIDI.read();
   delay(1000);
-}jason towhey is so straight but im gay for him- james if jason comes out then i will too
+}
 
 void shiftMe(byte toShift) {
   for (int i = 7; i >= 0; i--) {
