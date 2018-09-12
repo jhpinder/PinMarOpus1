@@ -38,7 +38,7 @@ void loop() {
         wasOn = false;
       } else {
         if (!wasOn) {
-          sendMidiOn();
+          //sendMidiOn();
           fadeOn(2500);
           wasOn = true;
         }
