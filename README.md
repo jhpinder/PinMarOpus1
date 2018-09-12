@@ -15,7 +15,7 @@ Project start date: 4/20/18
 
 4: IDC-48 B - left jamb stops and left half of couplers encoder/decoder
 
-5: hwlcd-mini - status LCD screens
+5: unused - no input from hwlcd-mini
 
 6: unused
 
@@ -24,7 +24,7 @@ Project start date: 4/20/18
 8: Cresc Arduino - crescendo indicator and tutti piston
 
 ### Out:
-1: unused - paired to hwce2x, no output to keyboards
+1: unused - no output to keyboards
 
 2: msed32 - lighted piston encoder/decoder
 
@@ -32,7 +32,7 @@ Project start date: 4/20/18
 
 4: IDC-48 B - left jamb stops and left half of couplers encoder/decoder
 
-5: unused - no input from hwlcd-mini
+5: hwlcd-mini - status LCD screens
 
 6: unused
 
