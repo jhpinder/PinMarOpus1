@@ -3,7 +3,8 @@ const int powerPin = 4;
 const int holdTimeConsole = 350;
 const int bootTime = 15000;
 void setup() {
-  digitalWrite(8, HIGH); // set up solenoid driver
+  pinMode(7, OUTPUT);
+  digitalWrite(7, LOW);
   pinMode(resetPin, OUTPUT);
   pinMode(powerPin, OUTPUT);  
   //////
